@@ -1,5 +1,5 @@
-[
+{"records":[
     {"Name": "name101", "age": 23, "avatar": "/img1.jpg"},
     {"Name": "name102", "age": 22, "avatar": "/img2.jpeg"},
     {"Name": "name103", "age": 21, "avatar": "/img3.jpg"}
-]
+]}

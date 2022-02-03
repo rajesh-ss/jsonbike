@@ -1,20 +1,20 @@
 [{    
     "image":"https://rajesh-ss.github.io/json/img1.jpeg",    
-    "Brand":"suzuki",    
+    "Brand":"abc",    
     "model":"alto",
     "year":"2007",    
     "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae praesentium perferendis aut. Illo sit, et sunt corporis nobis odio dolore eum minima sequi reprehenderit inventore necessitatibus non veniam voluptatum modi."    
   },
   {    
     "image":"https://rajesh-ss.github.io/json/img2.jpeg",    
-    "Brand":"suzuki",    
-    "model":"alto",
+    "Brand":"bcd",    
+    "model":"xyz",
     "year":"2004",    
     "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae praesentium perferendis aut. Illo sit, et sunt corporis nobis odio dolore eum minima sequi reprehenderit inventore necessitatibus non veniam voluptatum modi."    
   },
   {    
     "image":"https://rajesh-ss.github.io/json/img3.jpeg",    
-    "Brand":"suzuki",    
+    "Brand":"cde",    
     "model":"swift",
     "year":"2008",    
     "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae praesentium perferendis aut. Illo sit, et sunt corporis nobis odio dolore eum minima sequi reprehenderit inventore necessitatibus non veniam voluptatum modi."    

@@ -1,38 +1,23 @@
 [{    
-    "image":"",    
+    "image":"https://rajesh-ss.github.io/json/img1.jpg",    
     "Brand":"Employee A",    
     "model":"Male",
     "year":"2005",    
     "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae praesentium perferendis aut. Illo sit, et sunt corporis nobis odio dolore eum minima sequi reprehenderit inventore necessitatibus non veniam voluptatum modi."    
   },
   {    
-    "image":"",    
+    "image":"https://rajesh-ss.github.io/json/img2.jpeg",    
     "Brand":"Employee A",    
     "model":"Male",
     "year":"2005",    
     "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae praesentium perferendis aut. Illo sit, et sunt corporis nobis odio dolore eum minima sequi reprehenderit inventore necessitatibus non veniam voluptatum modi."    
   },
   {    
-    "image":"",    
-    "Brand":"Employee A",    
-    "model":"Male",
-    "year":"2005",    
-    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae praesentium perferendis aut. Illo sit, et sunt corporis nobis odio dolore eum minima sequi reprehenderit inventore necessitatibus non veniam voluptatum modi."    
-  },
-  {    
-    "image":"",    
-    "Brand":"Employee A",    
-    "model":"Male",
-    "year":"2005",    
-    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae praesentium perferendis aut. Illo sit, et sunt corporis nobis odio dolore eum minima sequi reprehenderit inventore necessitatibus non veniam voluptatum modi."    
-  },
-  {    
-    "image":"",    
+    "image":"https://rajesh-ss.github.io/json/img3.jpg",    
     "Brand":"Employee A",    
     "model":"Male",
     "year":"2005",    
     "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae praesentium perferendis aut. Illo sit, et sunt corporis nobis odio dolore eum minima sequi reprehenderit inventore necessitatibus non veniam voluptatum modi."    
   }
-
 
 ]   

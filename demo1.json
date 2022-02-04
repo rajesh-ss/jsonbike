@@ -3,20 +3,31 @@
     "Brand":"abc",    
     "model":"alto",
     "year":"2007",    
+    "price": 200000,
     "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae praesentium perferendis aut. Illo sit, et sunt corporis nobis odio dolore eum minima sequi reprehenderit inventore necessitatibus non veniam voluptatum modi."    
   },
   {    
     "image":"https://rajesh-ss.github.io/json/img2.jpeg",    
     "Brand":"bcd",    
     "model":"xyz",
-    "year":"2004",    
+    "year":"2004",   
+    "price": 1000000 ,
     "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae praesentium perferendis aut. Illo sit, et sunt corporis nobis odio dolore eum minima sequi reprehenderit inventore necessitatibus non veniam voluptatum modi."    
   },
   {    
     "image":"https://rajesh-ss.github.io/json/img3.jpeg",    
     "Brand":"cde",    
     "model":"swift",
-    "year":"2008",    
+    "year":"2008", 
+    "price": 400000 ,   
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae praesentium perferendis aut. Illo sit, et sunt corporis nobis odio dolore eum minima sequi reprehenderit inventore necessitatibus non veniam voluptatum modi."    
+  },
+  {    
+    "image":"https://rajesh-ss.github.io/json/img4.jpg",    
+    "Brand":"def",    
+    "model":"zxy",
+    "year":"2008", 
+    "price": 600000 ,   
     "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae praesentium perferendis aut. Illo sit, et sunt corporis nobis odio dolore eum minima sequi reprehenderit inventore necessitatibus non veniam voluptatum modi."    
   }
 
